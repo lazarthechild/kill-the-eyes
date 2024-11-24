@@ -1,0 +1,67 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAADwAAAAAAAAAPAAAAAAAAAA8AAAAAAAAADwAAAAAAAAAPAAAAAAAPAA8ADwAAAAAA/wAA8AAAAA8PDwAAAAAAAA/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "weapon"
+    },
+    "image1": {
+        "data": "hwQFAAUAAADu7g4A/v8OAP7xDgD+/w4A7u4OAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy1"
+    },
+    "image5": {
+        "data": "hwQFAAsAAADu7g4AAAAAAP7/DgAAAAAA/vEuIiICAAD+/w4AAAAAAO7uDgAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy5"
+    },
+    "image3": {
+        "data": "hwQLAAUAAADd3Q0A/f8NAP3xDQD9/w0A3d0NAAAAAADu7g4A/v8OAP7xDgD+/w4A7u4OAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy4"
+    },
+    "image6": {
+        "data": "hwQLAAUAAADu7g4A/v8OAP7xDgD+/w4A7u4OAAAAAADu7g4A/v8OAP7xDgD+/w4A7u4OAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy3"
+    },
+    "image7": {
+        "data": "hwQLAAsAAADu7g4AAAAAAP7/DgAAAAAA/vEuIiICAAD+/w4AAAIAAO7uDgAAAgAAAAAAAAACAADu7g4AAAIAAP7/DgAAAgAA/vEuIiICAAD+/w4AAAAAAO7uDgAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy6"
+    },
+    "image8": {
+        "data": "hwQLAAsAAADd3Q0AAAAAAP3/DQAAAAAA/fEtIiICAAD9/w0AAAIAAN3dDQAAAgAAAAAAAAACAADu7g4AAAIAAP7/DgAAAgAA/vEuIiICAAD+/w4AAAAAAO7uDgAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy7"
+    },
+    "image9": {
+        "data": "hwQLAAsAAADd3Q0AAAAAAP3/DQAAAAAA/fEtIiICAAD9/w0AAAIAAN3dDQAAAgAAAAAAAAACAADd3Q0AAAIAAP3/DQAAAgAA/fEtIiICAAD9/w0AAAAAAN3dDQAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy8"
+    },
+    "image10": {
+        "data": "hwQLAAUAAADd3Q0A/f8NAP3xDQD9/w0A3d0NAAAAAADd3Q0A/f8NAP3xDQD9/w0A3d0NAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy9"
+    },
+    "image11": {
+        "data": "hwQFAAsAAADd3Q0AAAAAAP3/DQAAAAAA/fEtIiICAAD9/w0AAAAAAN3dDQAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy10"
+    },
+    "image12": {
+        "data": "hwQEAAQAAADd3QAA/d8AAP3fAADd3QAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy11"
+    },
+    "image4": {
+        "data": "hwQEAAQAAADu7gAA/u8AAP7vAADu7gAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
